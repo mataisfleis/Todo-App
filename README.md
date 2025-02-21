@@ -6,4 +6,4 @@ npm i
 npm run dev
 ```
 
-![Showcase](Image will be uploaded in a while)
+![Showcase](https://raw.githubusercontent.com/mataisfleis/Todo-App/refs/heads/main/img/Showcase.png)
